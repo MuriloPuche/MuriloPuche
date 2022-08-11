@@ -11,6 +11,17 @@ Java has the most engaged community that I`ve ever seen before, people that are 
 
 I'm studying and implementing everyday to get better as a Java backend developer. This is what I'm passionate about, that's where I want to be to solve problems. I'm studying framework Spring and Spring Boot as well, facing challenges everyday and get more experience in this journey.
 
+Here some tecnologies that I have experience with:
+
+*Spring Boot
+*Docker
+*NoSQL
+*Swagger
+*Postman
+*Heroku
+*GIT
+*REST APIs
+
 If you want to see more about what challenges I've already get done, follow me. 
 
 Thanks for read this.
