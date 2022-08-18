@@ -1,4 +1,4 @@
-Hello Dev Community,
+Hello,
 
 my name is Murilo Puche, I'm transitioned my career from marketing with 7 years of experience in giant companies to developement.
 
